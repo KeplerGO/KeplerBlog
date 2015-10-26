@@ -12,26 +12,24 @@ see a parallax effect in the shape and time of the lensing event.
 
 The Microlensing Science Team (MST) was selected through a peer-review
 process during K2 GO Cycle 3 by a panel of professional volunteers.
-The MST will coordinate with and make recommendations to the K2 Guest
-Observer (GO) and Project Offices regarding the observational planning
-of Campaign 9. The MST is composed of the following people:
+The aim of the MST is to coordinate with and make recommendations to the K2 Guest
+Observer and Project Offices regarding the observational planning
+of Campaign 9.  This includes the selection of targets for
+Campaign 9.  The MST is comprised of the following people:
 
 * David Bennett (University of Notre Dame)
 * Andrew Gould (Ohio State University)
-* Calen Henderson (Ohio State University)
+* Calen Henderson (NASA JPL)
 * David Hogg (New York University, Inc.)
 * Matthew Penny (Ohio State University)
 * Rachel Street (Las Cumbres Observatory Global Telescope Network, Inc.)
 
-In order to best maximize the scientific returns from the microlensing
-data, Campaign 9 targets will be selected by the MST in coordination
-with the K2 GO and Project Offices. Campaign 9 will therefore differ
-from previous and future K2 Campaigns, where targets are proposed by
-the community at large. However, a small number of pixels will be
-available for approved Director's Discretionary Target (DDT) programs.
+The latest updates on the Campaign 9 microlensing experiment will be posted [here](http://keplerscience.arc.nasa.gov/k2-c9.html).
+
+Since Campaign 9 differs from previous and future K2 Campaigns (where targets are proposed by
+the community at large), the Guest Observer Office is offering a small number of pixels for approved Director's Discretionary Target (DDT) programs.
 [The call for DDT proposals can be found here](http://keplerscience.arc.nasa.gov/k2-ddt.html).   <font
 color=red>The deadline for DDT proposals for Campaign 9 is December
 10, 2015.</font>
-
 
 
