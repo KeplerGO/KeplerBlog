@@ -1,5 +1,5 @@
 Title: K2 Campaign 9 Microlensing Science Team Selected
-Date: 2015-10-26 15:00
+Date: 2015-11-06 15:00
 Author: Knicole Colon
 
 [K2 Campaign 9](http://keplerscience.arc.nasa.gov/k2-fields.html) will be executed in April 2016 and
@@ -17,9 +17,9 @@ Observer and Project Offices regarding the observational planning
 of Campaign 9.  This includes the selection of targets for
 Campaign 9.  The MST is comprised of the following people:
 
-* David Bennett (University of Notre Dame)
+* David Bennett (NASA Goddard Space Flight Center)
 * Andrew Gould (Ohio State University)
-* Calen Henderson (NASA JPL)
+* Calen Henderson (JPL/Caltech)
 * David Hogg (New York University, Inc.)
 * Matthew Penny (Ohio State University)
 * Rachel Street (Las Cumbres Observatory Global Telescope Network, Inc.)
