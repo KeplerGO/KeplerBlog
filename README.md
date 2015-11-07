@@ -1,3 +1,5 @@
+***This blog and repository is deprecated; the blog was integrated into the new website maintained at https://github.com/KeplerGO/KeplerScienceWebsite***
+
 # KeplerBlog
 Blog for the Kepler K2 Science Center
 
