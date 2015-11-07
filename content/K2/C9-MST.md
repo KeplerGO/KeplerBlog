@@ -11,18 +11,23 @@ gravitational microlensing events with K2 and from Earth in order to
 see a parallax effect in the shape and time of the lensing event.
 
 The Microlensing Science Team (MST) was selected through a peer-review
-process during K2 GO Cycle 3 by a panel of professional volunteers.
-The aim of the MST is to coordinate with and make recommendations to the K2 Guest
-Observer and Project Offices regarding the observational planning
-of Campaign 9.  This includes the selection of targets for
-Campaign 9.  The MST is comprised of the following people:
+process during K2 GO Cycle 3 by a panel of experts. The aim of the MST
+is to both coordinate with and make recommendations to the K2 mission
+regarding the best observational methods to use during Campaign 9,
+allowing the highest value science return. Additionally, the MST will
+serve the interests of the community by, for example, facilitating simultaneous
+ground-based data collection, developing novel methods for crowded
+field photometry, and providing completeness and reliability studies
+of detected microlensing events.
+
+The MST is comprised of the following people:
 
 * David Bennett (NASA Goddard Space Flight Center)
 * Andrew Gould (Ohio State University)
 * Calen Henderson (JPL/Caltech)
-* David Hogg (New York University, Inc.)
+* David Hogg (New York University)
 * Matthew Penny (Ohio State University)
-* Rachel Street (Las Cumbres Observatory Global Telescope Network, Inc.)
+* Rachel Street (Las Cumbres Observatory Global Telescope Network)
 
 The latest updates on the Campaign 9 microlensing experiment will be posted [here](http://keplerscience.arc.nasa.gov/k2-c9.html).
 
